@@ -6,8 +6,3 @@ div {
     font-weight: bold;
 }
 
-body{
-    background-color: black;
-    backface-visibility: unset;
-    background-blend-mode: lighten;
-}
